@@ -58,6 +58,10 @@
   </a>
 </p>
 
+---
+
+#### Note
+I somehow lost my old account [TheAK12](https://github.com/TheAK12/). So this is my new account. 🤧
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00D9FF&height=100&section=footer" width="100%"/>
 </p>
