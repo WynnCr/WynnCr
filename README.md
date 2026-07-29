@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🔧 I build for the **Niri / Wayland** ecosystem in **C++** during leisure
-- 👻 Creator of **ghost-watch** — a SQLite-backed screen time tracker with an FTXUI dashboard, now on the AUR
+- 👻 Creator of **ghost-watch** - a SQLite-backed screen time tracker with an FTXUI dashboard, now on the AUR
 - 🐧 Daily driver: **NixOS** & (Previously **Fedora**, **Arch**)
 - 🏆 New to **Codeforces** and **AtCoder**, grinding competitive programming one problem at a time
 
